@@ -39,7 +39,7 @@ import { AboutTestComponent } from './about-test/about-test.component';
         FormsModule,
         AppRoutingModule,
         SharedModule,
-		    NgxTweetModule
+		NgxTweetModule
     ],
     providers: [],
     bootstrap: [AppComponent]
